@@ -4,6 +4,8 @@
 
 An idiomatic and configurable Swift implementation of the [FSRS spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm).
 
+### Not my package; I fixed a small init method access issue
+
 ## Installation
 
 Add the following to your `Package.swift` file:
